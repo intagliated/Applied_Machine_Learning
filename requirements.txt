@@ -1,1 +1,0 @@
-flask\njoblib\nscikit-learn\nrequests\npytest\npytest-cov
